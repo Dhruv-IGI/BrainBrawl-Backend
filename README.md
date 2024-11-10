@@ -28,7 +28,7 @@ The frontend of Brain-Brawl is deployed on the Firebase platform. You can access
 
 ## Figma Design Document
 
-The design of BrainBrawl is published at Figma. You can access it at [Figma Link]().
+The design of BrainBrawl is published at Figma. You can access it at [Figma Link](https://www.figma.com/design/hWSQ276GrtnrQfDn5Nguof/HackCbs-7-Brain_Brawl?node-id=0-1&t=NYwA9EoAVE8uoiBC-1).
 
 ## Presentation for BrainBrawl is available at [Canva Link](https://www.canva.com/design/DAGV-0z1-Vs/Ijt0aEiSeATno8YV02Mm8w/view?utm_content=DAGV-0z1-Vs&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 
