@@ -20,17 +20,17 @@ The Brain-Brawl application's main functionality is to facilitate knockout compe
 
 ## Backend Deployment
 
-The backend of Brain-Brawl is deployed on the Render platform. You can access it at [Backend Base URL]().
+The backend of Brain-Brawl is deployed on the Render platform. You can access it at [Backend Base URL](https://hackcbs-backend.onrender.com/).
 
 ## Frontend Deployment
 
-The frontend of Brain-Brawl is deployed on the Firebase platform. You can access it at [Live Web App]().
+The frontend of Brain-Brawl is deployed on the Firebase platform. You can access it at [Live Web App](https://brainbrawl-3268e.web.app).
 
 ## Figma Design Document
 
 The design of BrainBrawl is published at Figma. You can access it at [Figma Link]().
 
-## Presentation for BrainBrawl is available at [Canva Link]().
+## Presentation for BrainBrawl is available at [Canva Link](https://www.canva.com/design/DAGV-0z1-Vs/Ijt0aEiSeATno8YV02Mm8w/view?utm_content=DAGV-0z1-Vs&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 
 ## API Endpoints
 
@@ -50,7 +50,7 @@ To set up the Brain-Brawl application locally, follow these steps:
 
 ```bash
 # Clone the repository to your local machine:
-git clone 
+git clone https://github.com/Dhruv-IGI/BrainBrawl-Backend
 cd Brain-Brawl
 
 # Create a virtual environment and install the required dependencies:
